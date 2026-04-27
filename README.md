@@ -1,5 +1,10 @@
 # 📊 Data Analytics Professional Course
 
+
+**Author: SK SAHIL (programmer-sahil)**  
+
+A complete, industry-aligned data analytics curriculum designed to help learners build job-ready skills.  
+This repository covers Python programming, SQL databases, and modern visualization tools, with hands-on projects to reinforce learning.  
 ---
 
 ## 🗂️ Course Modules
